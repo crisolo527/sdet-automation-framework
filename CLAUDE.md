@@ -8,7 +8,7 @@ A hands-on Python test automation framework, built module-by-module as a learnin
 
 ## Current module
 
-**Module 1 — Setup** (not started)
+**Module 1 — Setup: complete.** Next up: Module 2 — API testing (not started)
 
 ## Module checkpoints
 

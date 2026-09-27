@@ -8,7 +8,7 @@ See [CLAUDE.md](CLAUDE.md) for the full module plan and workflow rules.
 
 | # | Module | Status |
 |---|--------|--------|
-| 1 | Setup | In progress |
+| 1 | Setup | Complete |
 | 2 | API testing | Not started |
 | 3 | UI/E2E | Not started |
 | 4 | AI agent testing | Not started |
