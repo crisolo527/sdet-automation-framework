@@ -1,0 +1,13 @@
+[project]
+name = "sdet-automation-framework"
+version = "0.1.0"
+description = "Learning-sandbox test automation framework targeting Automation Exercise"
+requires-python = ">=3.10"
+dependencies = [
+    "pytest>=8.0",
+    "playwright>=1.45",
+    "requests>=2.31",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["01-setup", "02-api-testing", "03-ui-e2e", "04-ai-agent-testing", "05-ci-cd", "06-reporting-polish"]
