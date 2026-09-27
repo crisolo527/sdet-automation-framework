@@ -11,3 +11,4 @@ dependencies = [
 
 [tool.pytest.ini_options]
 testpaths = ["01-setup", "02-api-testing", "03-ui-e2e", "04-ai-agent-testing", "05-ci-cd", "06-reporting-polish"]
+pythonpath = ["."]
